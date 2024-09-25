@@ -1,21 +1,21 @@
 # Dự án sản phẩm công nghệ với đề tài "Sống xanh"
 
 # Table of content
+
 - [Dự án sản phẩm công nghệ với đề tài "Sống xanh"](#dự-án-sản-phẩm-công-nghệ-với-đề-tài-sống-xanh)
 - [Table of content](#table-of-content)
-    - [**I. Giới thiệu về dự án**](#i-giới-thiệu-về-dự-án)
-    - [**II. MỤC TIÊU, NỘI DUNG VÀ PHƯƠNG ÁN TỔ CHỨC THỰC HIỆN ĐỀ TÀI**](#ii-mục-tiêu-nội-dung-và-phương-án-tổ-chức-thực-hiện-đề-tài)
-      - [**1. Mục tiêu của đề tài**](#1-mục-tiêu-của-đề-tài)
-      - [**2. Nội dung của đề tài**](#2-nội-dung-của-đề-tài)
-      - [**3. Phương án tổ chức thực hiện**](#3-phương-án-tổ-chức-thực-hiện)
-    - [**III. Khả năng Ứng dụng của Sản phẩm**](#iii-khả-năng-ứng-dụng-của-sản-phẩm)
-      - [**1. Ứng dụng cho Cá nhân**](#1-ứng-dụng-cho-cá-nhân)
-      - [**2. Ứng dụng cho Doanh nghiệp**](#2-ứng-dụng-cho-doanh-nghiệp)
-      - [**3. Ứng dụng cho Tổ chức Phi lợi nhuận**](#3-ứng-dụng-cho-tổ-chức-phi-lợi-nhuận)
-      - [**4. Ứng dụng cho Chính phủ và Cơ quan Quản lý Môi trường**](#4-ứng-dụng-cho-chính-phủ-và-cơ-quan-quản-lý-môi-trường)
-      - [**5. Ứng dụng cho Trung tâm Tái chế và Xử lý Rác thải**](#5-ứng-dụng-cho-trung-tâm-tái-chế-và-xử-lý-rác-thải)
-    - [**Tổng quan**](#tổng-quan)
-
+  - [**I. Giới thiệu về dự án**](#i-giới-thiệu-về-dự-án)
+  - [**II. MỤC TIÊU, NỘI DUNG VÀ PHƯƠNG ÁN TỔ CHỨC THỰC HIỆN ĐỀ TÀI**](#ii-mục-tiêu-nội-dung-và-phương-án-tổ-chức-thực-hiện-đề-tài)
+    - [**1. Mục tiêu của đề tài**](#1-mục-tiêu-của-đề-tài)
+    - [**2. Nội dung của đề tài**](#2-nội-dung-của-đề-tài)
+    - [**3. Phương án tổ chức thực hiện**](#3-phương-án-tổ-chức-thực-hiện)
+  - [**III. Khả năng Ứng dụng của Sản phẩm**](#iii-khả-năng-ứng-dụng-của-sản-phẩm)
+    - [**1. Ứng dụng cho Cá nhân**](#1-ứng-dụng-cho-cá-nhân)
+    - [**2. Ứng dụng cho Doanh nghiệp**](#2-ứng-dụng-cho-doanh-nghiệp)
+    - [**3. Ứng dụng cho Tổ chức Phi lợi nhuận**](#3-ứng-dụng-cho-tổ-chức-phi-lợi-nhuận)
+    - [**4. Ứng dụng cho Chính phủ và Cơ quan Quản lý Môi trường**](#4-ứng-dụng-cho-chính-phủ-và-cơ-quan-quản-lý-môi-trường)
+    - [**5. Ứng dụng cho Trung tâm Tái chế và Xử lý Rác thải**](#5-ứng-dụng-cho-trung-tâm-tái-chế-và-xử-lý-rác-thải)
+  - [**Tổng quan**](#tổng-quan)
 
 ### **I. Giới thiệu về dự án**
 
@@ -29,12 +29,15 @@ Trong bối cảnh này, các công nghệ thông tin và truyền thông đóng
 
 #### **1. Mục tiêu của đề tài**
 
-Mục tiêu của dự án <i>"Ứng dụng Sống Xanh Toàn Diện" </i> là xây dựng một hệ sinh thái kỹ thuật số nhằm hỗ trợ và khuyến khích các hoạt động bảo vệ môi trường. Hệ sinh thái bao gồm các nền tảng website, ứng dụng di động và ứng dụng desktop với các mục tiêu chính sau:
+Mục tiêu của dự án _"Ứng dụng Sống Xanh Toàn Diện"_ là xây dựng một hệ sinh thái kỹ thuật số nhằm hỗ trợ và khuyến khích các hoạt động bảo vệ môi trường. Hệ sinh thái bao gồm các nền tảng website, ứng dụng di động với các mục tiêu chính sau:
+'
 
 - **Tăng cường nhận thức về bảo vệ môi trường**: Giúp người dùng hiểu rõ hơn về vai trò của việc tái chế, quản lý rác thải, trồng cây và tham gia vào các thử thách sống xanh.
 - **Hỗ trợ quản lý hiệu quả rác thải và tái chế**: Cung cấp công cụ quản lý cho cá nhân và tổ chức, đồng thời kết nối người dùng với các trung tâm tái chế và các sự kiện bảo vệ môi trường.
 - **Thúc đẩy cộng đồng sống xanh**: Tạo môi trường tương tác trực tuyến cho người dùng chia sẻ kinh nghiệm, tham gia vào các dự án và thử thách bảo vệ môi trường.
-- **Tối ưu hóa quy trình bảo vệ môi trường cho tổ chức**: Cung cấp công cụ phân tích, quản lý dự án trồng cây và chiến dịch sống xanh cho các tổ chức phi lợi nhuận.
+- **Tối ưu hóa quy trình bảo vệ môi trường cho tổ chức**: Cung cấp công cụ phân tích(hiệu quả, tiến độ thực hiện dự án (nếu trong dự án, nếu có địa điểm nào đã được thực hiện thì đánh dấu màu xanh, nếu chưa được thực hiện thì đánh đấu màu đỏ và thực hiện gửi thông báo đến cho cộng đồng về việc chưa được thực hiện sau 3 ngày kể từ khi dự án đó được triển khai dựa theo tỉ lệ khu vực được thực hiện))
+  <br>
+  , quản lý dự án trồng cây và chiến dịch sống xanh cho các tổ chức phi lợi nhuận.
 
 ---
 
@@ -49,11 +52,13 @@ Mục tiêu của dự án <i>"Ứng dụng Sống Xanh Toàn Diện" </i> là x
   - Cung cấp bản đồ điểm thu gom tái chế, hỗ trợ kết nối các trung tâm tái chế và các sự kiện bảo vệ môi trường.
 
 - **Nội dung 2: Phát triển ứng dụng di động**
-  
+
+  **Phần nội dung 2 này để làm sau (làm xong sau website)** - ưu tiên hoàn thành web trước
+
   - Thiết kế công cụ tự động phân loại rác bằng hình ảnh và cung cấp thông tin hướng dẫn tái chế.
   - Xây dựng tính năng ghi lại và theo dõi sự phát triển của cây trồng cho cá nhân và các dự án cộng đồng.
   - Tích hợp tính năng tham gia các thử thách sống xanh, theo dõi tiến độ và nhận phần thưởng.
-       + **Phần này để sau**
+
 ---
 
 #### **3. Phương án tổ chức thực hiện**
@@ -95,7 +100,6 @@ Mục tiêu của dự án <i>"Ứng dụng Sống Xanh Toàn Diện" </i> là x
 
 **Tổng quan:**
 Mục tiêu của dự án là không chỉ giúp cá nhân thực hiện các hành động nhỏ bảo vệ môi trường mà còn kết nối họ vào một cộng đồng chung. Hệ thống sẽ hỗ trợ cả người dùng cá nhân lẫn các tổ chức lớn trong việc quản lý và giảm thiểu rác thải, thúc đẩy tái chế và tham gia các chiến dịch trồng cây.
-
 
 <hr />
 
