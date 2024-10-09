@@ -1,3 +1,11 @@
+# Phần bổ công việc phát triển dự án
+
+Dưới đây là kế hoạch phát triển website quản trị và ứng dụng di động với người dùng sử dụng, trong đó phân tách rõ ràng nhiệm vụ của đội ngũ quản trị và đội ngũ phát triển ứng dụng di động:
+
+---
+
+# **Kế hoạch phát triển Website và Ứng dụng di động**
+
 ## **I. Mục tiêu**
 
 1. **Website quản trị (Admin Dashboard):**  
